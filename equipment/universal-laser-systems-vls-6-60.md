@@ -48,9 +48,9 @@ Always remove all the material including scrap material from the machine after u
 
 Create a new file in your favourite vector program and make sure that you use true black, red, and blue.
 
-![](../assets/vls-6-60/06-colors.png)
+![](../assets/vls-6-60/06-example-file.png)
 
-![](../assets/vls-6-60/07-example-file.png)
+![](../assets/vls-6-60/07-example-file-2.png)
 
 Make sure that the red line (cut line) is set to .001, In the example above the red lines go around the black areas of the cupcake. This is so the white areas will be cut out and the black areas will be engraved. You will need to place your picture inside of a red shape (rectangle, square, circle, oval) in this example we have used a square. Make sure that the shape that you chose to place your picture in has no fill.
 
@@ -87,8 +87,8 @@ Before you press the big green button make sure that the compressor is on using 
 # Resources
 
 - [Universal-Laser-tutorial.pdf](../assets/vls-6-60/Universal-Laser-tutorial.pdf)
-- [VLS_Platform_User_Guide.pdf](../assets/vls-6-60/VLS_Platform_User_Guide.pdf)
+- [In-depth manual.pdf](../assets/vls-6-60/VLS_Platform_User_Guide.pdf)
 
 How to clean it (only staff can perform this):
 
-> ⚠️ **TODO – link to recover:** the original Notion page has a web bookmark here that could not be exported automatically.
+[How to properly maintain your laser](https://www.youtube.com/watch?v=pdL8AYSuel4)

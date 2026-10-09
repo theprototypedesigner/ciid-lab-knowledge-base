@@ -266,4 +266,4 @@ The material used will affect the mechanical properties and accuracy of the prin
 
 If you are interested in reading more about FDM 3D printing or need help troubleshooting why your print isn't working, you can download this booklet.
 
-> ⚠️ **TODO – link to recover:** the original Notion page has a web bookmark here (the booklet link) that could not be exported automatically.
+[The ABC of 3D-P.pdf](https://drive.google.com/file/d/1Em6fTpHhf1DHVCchMBOqeK_PSamBXBv8/view?usp=sharing)

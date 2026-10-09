@@ -13,10 +13,10 @@ The Ultimaker S5 is built to run continuously and maximize uptime. Its best-in-c
 
 ## Software
 
-> ⚠️ **TODO – link to recover:** the original Notion page has a web bookmark here (software download) that could not be exported automatically.
+[Ultimaker Cura: Powerful, easy-to-use 3D printing software](https://ultimaker.com/software/ultimaker-cura)
 
 ## How to use the Ultimaker
 
 When you are ready to start printing, this set of video tutorials will get you started with the Ultimaker and Cura
 
-> ⚠️ **TODO – link to recover:** the original Notion page has a web bookmark here (video tutorials) that could not be exported automatically.
+[Ultimaker: Intent profiles in Ultimaker Cura](https://www.youtube.com/watch?v=YHKM_bHnZ50&list=PLdLJV6tsi3ACyxZt8ZNCywmOmdSpE2_cZ)

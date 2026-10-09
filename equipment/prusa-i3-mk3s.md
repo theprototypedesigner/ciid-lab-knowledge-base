@@ -16,13 +16,14 @@ The Original Prusa I3 MK3S is the successor of the award-winning Original Prusa 
 
 ## Software
 
-> ⚠️ **TODO – link to recover:** the original Notion page has a web bookmark here (software download) that could not be exported automatically.
+[PrusaSlicer - Prusa3d.com - 3D printers by Josef Prusa](https://www.prusa3d.com/prusaslicer/)
 
 ## How to use the Prusa I3 MK3S
 
 When you are ready to start printing, this set of video tutorials will get you started with the Prusa I3 MK3S and PrusaSlicer
 
-> ⚠️ **TODO – links to recover:** the original Notion page has two web bookmarks here (video tutorials) that could not be exported automatically.
+- [PrusaSlicer 2.0 release!](https://www.youtube.com/watch?v=bzf20FxsN2Q&feature=emb_title)
+- [Original Prusa i3 MK3 guide for a new user](https://www.youtube.com/watch?v=GE-lrRbU124)
 
 ## Other resources
 
