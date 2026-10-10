@@ -16,7 +16,7 @@ The Original Prusa MK4 is the successor of the Original Prusa i3 MK3S+. It intro
 - Automatic mesh bed levelling (only on the area where you print)
 - Magnetic heatbed with removable PEI spring steel print sheets
 - Filament sensor, power panic (resumes the print after a power outage)
-- Connectivity: USB drive, Ethernet, Wi-Fi and NFC
+- Connectivity: USB drive, Ethernet, Wi-Fi
 - 3,5" colour screen
 
 ### What is Input Shaper?
