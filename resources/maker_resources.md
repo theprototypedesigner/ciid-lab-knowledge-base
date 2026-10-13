@@ -20,7 +20,7 @@ These are online libraries where people share 3D models, ready to download and p
 
 ### Techniques
 
-- [Watertight Prints]([https://www.thingiverse.com/](https://help.prusa3d.com/article/watertight-prints_112324)): modifying the printer settings to make an object capable of holding water without leaking
+- [Watertight Prints](https://help.prusa3d.com/article/watertight-prints_112324): modifying the printer settings to make an object capable of holding water without leaking
 
 ## Laser cutting
 
