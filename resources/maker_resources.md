@@ -55,6 +55,36 @@ Instead of drawing every finger joint by hand, these tools generate the cutting 
 - [Wokwi](https://wokwi.com/): Arduino and ESP32 simulator in the browser, test your circuit and code before building it.
 - [Fritzing](https://fritzing.org/): software to draw your circuits on a breadboard, useful for documenting projects.
 
+## CNC milling
+ 
+### Getting started
+ 
+- [Nomad 3 resources page](https://my.carbide3d.com/gettingstarted/nomad3/): official starting point with links to the manual, the software and the video training.
+- [Nomad 3 Getting Started Guide (PDF)](https://guides.carbide3d.com/files/pdf/Nomad3_Getting_Started_Guide_12_22_2020_v1_smaller.pdf): safety, parts of the machine, first setup, setting job zero, workholding and a starter project. Read the safety section before using the machine!
+- [The CNC Mindset](https://guides.carbide3d.com/start-here/the-cnc-mindset/): short introduction to how CNC milling works and how to think about it.
+### Learning Carbide Create
+ 
+- [Design with Carbide Create (video course)](https://guides.carbide3d.com/create/): official course in short videos, from job setup and drawing shapes to toolpaths, tabs and simulation. No previous experience needed.
+### Learning Carbide Motion
+ 
+Carbide 3D's video course on running the machine is made for their bigger machine, the Shapeoko, but the way you use Carbide Motion is the same on the Nomad. These are the chapters that matter most:
+ 
+- [Machine Initialization](https://guides.carbide3d.com/running-shapeoko/machine-initialization/): connecting to the machine and homing.
+- [Movements and Zeroing](https://guides.carbide3d.com/running-shapeoko/movements-and-zeroing/): moving the machine (jogging) and setting the X, Y and Z zero on your material.
+- [Hello World](https://guides.carbide3d.com/running-shapeoko/hello-world/): running your first job, from the file to the finished part.
+- [Hello Contour](https://guides.carbide3d.com/running-shapeoko/hello-contour/), [Hello Pocket](https://guides.carbide3d.com/running-shapeoko/hello-pocket/) and [Hello V-carve](https://guides.carbide3d.com/running-shapeoko/hello-v-carve/): small projects that show the main types of toolpaths.
+Skip the chapters about BitSetter and BitZero, those are accessories for the Shapeoko.
+ 
+### Other CNC resources
+ 
+- [Carbide 3D manuals](https://guides.carbide3d.com/manuals/): all official manuals, including the Nomad 3 and the Nomad BitZero probe.
+- [Shapeoko & Nomad feeds and speeds charts](https://community.carbide3d.com/t/shapeoko-nomad-feeds-speeds-charts/2402): community thread with recommended cutting speeds for different materials. Always start with conservative values.
+- [Carbide 3D community forum](https://community.carbide3d.com/): ask questions and see what other people make with their machines.
+
+## Materials
+
+- [Materiom](https://commons.materiom.org/materials-database): open database of recipes to make your own bio-based materials (bioplastics, composites, foams...) from ingredients like starch, gelatine, agar or food waste.
+
 ## General inspiration
 
 - [Instructables](https://www.instructables.com/): step by step projects of all kinds, from electronics to woodworking.
