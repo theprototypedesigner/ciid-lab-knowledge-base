@@ -23,5 +23,5 @@ All things lab related
 - [HANMATEK HM305P Variable Switching Digital Power Supply](equipment/hanmatek-hm305p-power-supply.md)
 
 ## Resources
-
+- [Maker Resources](resources/maker_resources.md)
 - [Lab Inventory](https://airtable.com/app42S70OhwE6x15D/pagkLwYbsdmFrXHDW)
