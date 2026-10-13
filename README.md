@@ -22,4 +22,5 @@ All things lab related
 
 ## Resources
 - [Maker Resources](resources/maker_resources.md)
+- [Recommended Tutorials](resources/tutorials.md)
 - [Lab Inventory](https://airtable.com/app42S70OhwE6x15D/pagkLwYbsdmFrXHDW)
