@@ -2,7 +2,7 @@
 
 All things lab related
 
-- [📕 Lab Rules](lab-rules.md)
+- [Lab Rules](lab-rules.md)
 
 ## Techniques
 
