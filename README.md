@@ -24,4 +24,4 @@ All things lab related
 
 ## Resources
 
-- [Lab Inventory](https://airtable.com/shrApxSaPjRx0ZK2K)
+- [Lab Inventory](https://airtable.com/app42S70OhwE6x15D/pagkLwYbsdmFrXHDW)
