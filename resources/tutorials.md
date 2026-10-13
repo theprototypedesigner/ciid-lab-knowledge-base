@@ -6,7 +6,5 @@ A selection of tutorials we recommend to get started with the tools you will use
 
 ## Fusion 360
 
-[Autodesk Fusion](https://www.autodesk.com/products/fusion-360/)
-
 - [3D Modeling Basics - Coffee Mug](https://www.loom.com/share/3d082a4553ef44789657a2f73b060e28)
 - [3D Modeling Basics - Plastic Box](https://www.loom.com/share/9c7790bb73e7450791b93b82ff1266ab)
