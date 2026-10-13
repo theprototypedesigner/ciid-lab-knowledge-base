@@ -1,4 +1,4 @@
-# 📕 Lab Rules
+# Lab Rules
 
 [← Back to the knowledge base](README.md)
 
