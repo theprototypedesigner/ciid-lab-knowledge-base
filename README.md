@@ -12,8 +12,6 @@ All things lab related
 ## Equipment
 
 - [Universal Laser Systems VLS 6.60](equipment/universal-laser-systems-vls-6-60.md)
-- [Ultimaker S5](equipment/ultimaker-s5.md)
-- [Prusa I3 MK3S](equipment/prusa-i3-mk3s.md)
 - [Prusa MK4 with Input Shaper](equipment/prusa-mk4-input-shaper.md)
 - [Prusa XL](equipment/prusa-xl.md)
 - [Carbide 3D Nomad 883](equipment/carbide-3d-nomad-883.md)
