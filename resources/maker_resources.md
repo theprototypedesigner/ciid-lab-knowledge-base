@@ -18,6 +18,10 @@ These are online libraries where people share 3D models, ready to download and p
 - [Thangs](https://thangs.com/): search engine that looks for models across many libraries at the same time, you can even search by shape.
 - [GrabCAD](https://grabcad.com/library): library of CAD models shared by engineers and designers, in formats you can open in Fusion, Onshape and other CAD software (STEP, Fusion files and more). Very useful to find models of electronic components, motors or hardware to check if things fit in your design.
 
+### Techniques
+
+- [Watertight Prints]([https://www.thingiverse.com/](https://help.prusa3d.com/article/watertight-prints_112324)): modifying the printer settings to make an object capable of holding water without leaking
+
 ## Laser cutting
 
 ### Box and template generators
