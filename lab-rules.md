@@ -13,6 +13,7 @@
 - If a tool doesn’t work properly or it gets damaged while using it please report it as soon as possible in order to fix it.
 - Be mindful about disposing of things, don't throw away things that can be reused, fixed, or become prototyping material.
 - When cleaning up your space, please separate the waste in the proper trash bins.
+- No cup or open drinks in the lab.
 - **There’s a surface for that. Make sure to use the right table, mat, or sheet for your task.**
 - **Some things are lendable and some are not. If the equipment has a QR code, you can borrow it and return it by scanning the QR code**
 
